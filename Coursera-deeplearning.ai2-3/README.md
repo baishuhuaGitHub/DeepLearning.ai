@@ -1,0 +1,2 @@
+# Coursera deeplearning.ai2-3-Hyperparameter tuning Batch Normalization and Programming Frameworks
+Coursera deeplearning.ai 深度学习笔记2-3-Hyperparameter tuning, Batch Normalization and Programming Frameworks-深度学习框架代码实现
